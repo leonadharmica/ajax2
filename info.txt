@@ -1,0 +1,20 @@
+function manejarRespuesta(){}
+
+var manejarRespuesta = function (){}
+
+window.manejarRespuesta = function (){}
+
+//funcion anonima ES5
+let a = function(){}
+
+//funcion flecha / Fat Arrow function / funcion lambda
+let a = () => {}
+
+// Si es un solo el parametro de la funcion, los parentesis pueden obviarse
+
+let a = function(item){}
+let a = item => {}
+
+xhr.addEventListener("load", e=>{})
+
+xhr.addEventListener("load", function(e){})
